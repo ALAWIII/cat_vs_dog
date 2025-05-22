@@ -1,0 +1,13 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+         Cat       0.97      0.95      0.96      2520
+         Dog       0.95      0.97      0.96      2472
+
+    accuracy                           0.96      4992
+   macro avg       0.96      0.96      0.96      4992
+weighted avg       0.96      0.96      0.96      4992
+
+Confusion Matrix:
+[[2405  115]
+ [  83 2389]]
